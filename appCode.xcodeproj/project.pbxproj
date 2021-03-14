@@ -3,13 +3,18 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 53;
 	objects = {
+
+/* Begin PBXFileReference section */
+		395D209825FD993A009CF706 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		395D209125FD98C8009CF706 = {
 			isa = PBXGroup;
 			children = (
+				395D209825FD993A009CF706 /* MyPlayground.playground */,
 			);
 			sourceTree = "<group>";
 		};
@@ -22,7 +27,7 @@
 				LastUpgradeCheck = 1240;
 			};
 			buildConfigurationList = 395D209525FD98C8009CF706 /* Build configuration list for PBXProject "appCode" */;
-			compatibilityVersion = "Xcode 9.3";
+			compatibilityVersion = "Xcode 11.4";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
